@@ -10,9 +10,6 @@ export default function Footer() {
             <Bus className="h-5 w-5 text-blue-600" />
             <span className="font-bold text-gray-900">TrackMyBus</span>
           </div>
-          <p className="text-sm text-gray-500">
-            A hackathon project for SVH26003. Built with React & Tailwind.
-          </p>
         </div>
         
         <div className="flex items-center gap-6">
